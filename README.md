@@ -9,8 +9,7 @@ As a regular user and supporter of open-source, I am trying to dedicate some of 
 
 <p float="left">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=geosot&show_icons=true)](https://github.com/GeoSot)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=geosot&currStreakLabel=000&ring=2f80ed&fire=2f80ed)](https://github.com/GeoSot)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=geosot&show_icons=true)](https://github.com/GeoSot)[![GitHub Streak](https://streak-stats.demolab.com/?user=geosot&currStreakLabel=000&ring=2f80ed&fire=2f80ed)](https://github.com/GeoSot)
 
 </p>
 
